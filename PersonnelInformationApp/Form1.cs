@@ -42,6 +42,7 @@ namespace PersonnelInformationApp
 
             MessageBox.Show("Your Information is Saved");
 
+            MessageBox.Show("GIT test");
             Reset();
 
         }
